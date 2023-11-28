@@ -9,10 +9,14 @@ The goal of this project is to approximate likelihood by using subset of data wh
      -[Recitation 2](Exercises/Diagnostics of models using eigenvalues.pdf)
      -[Recitation 2](Recitation_2_vae/Recitation_2.ipynb)
 
+See below to review expectation and variance of theta(variance).
+[Click here](https://stats.stackexchange.com/questions/427332/variance-of-quadratic-form-for-multivariate-normal-distribution)
+
 
   
 ## Exercise 2: Using eigenvalues to assess the quality of the model
   
+
 
  
 
