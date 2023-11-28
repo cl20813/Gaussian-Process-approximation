@@ -6,8 +6,8 @@ The goal of this project is to approximate likelihood by using subset of data wh
   1. If we try to fit matern when exponential kernel is true, fitted variance will go to infinity to compensate matern's faster decaying speed.
   2. On the other hand, if we try to fit exponential kernel when true model is mater, fitted variance will go to 0 to compensate exp's slower decaying speed.
 
-  - [Experiment result](exercises/Fit matern_true exp.pdf)
-  - [R code](exercises/Diagnostics of models using eigenvalues.Rmd)
+  - [Experiment result](Exercises/Diagnostics of models using eigenvalues.pdf)
+  - [R code](Exercises/Diagnostics of models using eigenvalues.Rmd)
  
 
 
