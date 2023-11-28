@@ -6,7 +6,7 @@ The goal of this project is to approximate likelihood by using subset of data wh
   1. If we try to fit matern when exponential kernel is true, fitted variance will go to infinity to compensate matern's faster decaying speed.
   2. On the other hand, if we try to fit exponential kernel when true model is mater, fitted variance will go to 0 to compensate exp's slower decaying speed.
 
--[Experiment result]([Exercises/Fit matern_true exp.pdf](https://github.com/cl20813/Gaussian-Process-approximation/blob/567fc1abc0f2e12e7582635b54813c3ec11268d6/Exercises/Fit%20matern_true%20exp.pdf))
+-[Experiment result](https://github.com/cl20813/Gaussian-Process-approximation/blob/567fc1abc0f2e12e7582635b54813c3ec11268d6/Exercises/Fit%20matern_true%20exp.pdf)
 
 
 Click the link to review expectation and variance of theta(variance).
