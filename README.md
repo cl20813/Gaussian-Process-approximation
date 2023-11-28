@@ -7,6 +7,7 @@ The goal of this project is to approximate likelihood by using subset of data wh
   2. On the other hand, if we try to fit exponential kernel when true model is mater, fitted variance will go to 0 to compensate exp's slower decaying speed.
 
      -[Recitation 2](Exercises/Diagnostics of models using eigenvalues.pdf)
+     -[Recitation 2](Recitation_2_vae/Recitation_2.ipynb)
 
 
   
