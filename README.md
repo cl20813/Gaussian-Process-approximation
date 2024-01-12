@@ -14,7 +14,7 @@ Click the link to review expectation and variance of theta(variance).
 
 
   
-## Exercise 2: Using eigenvalues to assess the quality of the model
+## Exercise 2: Using eigen-values and eigen-vectors to assess the quality of the model
 
   -[Experiment result](https://github.com/cl20813/Gaussian-Process-approximation/blob/96833cdb8ed31c74473dfea7213204bed6111942/Exercises/Diagnostics%20of%20models%20using%20eigenvalues.pdf)
   
