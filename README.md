@@ -24,8 +24,10 @@ Click the link to review expectation and variance of theta(variance).
   -[Experiment result](https://github.com/cl20813/Gaussian-Process-approximation/blob/main/Exercises/Spat_tmp_cov_exercise_stein_2004_python.ipynb)
   
 
+## Exercise 4: Extension of exercise 2 to spatio-temporal covariance matrices in Stein(2004).
 
-https://github.com/cl20813/Gaussian-Process-approximation/blob/main/Exercises/Spat_tmp_cov_exercise_stein_2004_python.ipynb
+  -[Experiment result](Exercises/Isometry_same_norm_spectrum_1_12.pdf)
+  
 
 
  
