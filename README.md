@@ -19,6 +19,14 @@ Click the link to review expectation and variance of theta(variance).
   -[Experiment result](https://github.com/cl20813/Gaussian-Process-approximation/blob/96833cdb8ed31c74473dfea7213204bed6111942/Exercises/Diagnostics%20of%20models%20using%20eigenvalues.pdf)
   
 
+## Exercise 3: Extension of exercise 2 to spatio-temporal covariance matrices in Stein(2004).
+
+  -[Experiment result](https://https://github.com/cl20813/Gaussian-Process-approximation/blob/main/Exercises/Spat_tmp_cov_exercise_stein_2004_python.ipynb)
+  
+
+
+https://github.com/cl20813/Gaussian-Process-approximation/blob/main/Exercises/Spat_tmp_cov_exercise_stein_2004_python.ipynb
+
 
  
 
