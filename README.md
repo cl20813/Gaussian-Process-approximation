@@ -24,9 +24,14 @@ Click the link to review expectation and variance of theta(variance).
   -[Experiment result](https://github.com/cl20813/Gaussian-Process-approximation/blob/main/Exercises/Spat_tmp_cov_exercise_stein_2004_python.ipynb)
   
 
-## Exercise 4: Extension of exercise 2 to spatio-temporal covariance matrices in Stein(2004).
+## Exercise 4: Now we investigate the behavior of (eigen vector x complex exponential ) 
 
-  -[Experiment result](Exercises/Isometry_same_norm_spectrum_1_12.pdf)
+  -[Explanation](Exercises/Isometry_same_norm_spectrum_1_12.pdf)
+  See the chapter 2.6 "Two corresponding Hilbert spaces" in Stein's book. Note that there is no randomness when working with spectral density.
+
+  -[Python code](Exercises/Isometry_same_norm_spectrum_1_12.ipynb)
+
+  
   
 
 
