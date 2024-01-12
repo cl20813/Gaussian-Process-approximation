@@ -16,7 +16,7 @@ Click the link to review expectation and variance of theta(variance).
   
 ## Exercise 2: Using eigen-values and eigen-vectors to assess the quality of the model.
 
-  -[Experiment result](Exercises/Diagnostics of covariance matrix using eigenvalue.ipynb)
+  -[Experiment result](Exercises/Diagnostics_of_covariance_matrix_using_eigenvalue.ipynb)
   
 
 ## Exercise 3: Extension of exercise 2 to spatio-temporal covariance matrices in Stein(2004).
