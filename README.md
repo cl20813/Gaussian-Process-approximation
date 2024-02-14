@@ -31,7 +31,10 @@ Click the link to review expectation and variance of theta(variance).
 
   -[Python code](Exercises/Isometry_same_norm_spectrum_1_12.ipynb)
 
+## Exercise 5: Now we investigate the behavior of (eigen vector x complex exponential ) 
 
+1. Observe the difference of isotrpoic model and anisotropic model.
+2. Let $f_1(w)= o(w^2)$ and $f_2(w)= o(w^4)$.
 
 ## Exercise 6. Correlation and relative standard errors of empirical semi-variogram. 
 
