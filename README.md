@@ -31,6 +31,11 @@ Click the link to review expectation and variance of theta(variance).
 
   -[Python code](Exercises/Isometry_same_norm_spectrum_1_12.ipynb)
 
+
+
+## Exercise 6. Correlation and relative standard errors of empirical semi-variogram. 
+
+
   
   
 
