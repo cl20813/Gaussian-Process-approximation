@@ -34,7 +34,7 @@ Click the link to review expectation and variance of theta(variance).
 ## Exercise 5: Now we investigate the behavior of (eigen vector x complex exponential ) 
 
 1. Exercise 5-1: Observe the difference of isotrpoic model and anisotropic model.
-2. Exercise 5-2: Let $f_1(w)= o(w^2)$ and $f_2(w)= o(w^4)$. If we look at $\biggl| \sum_j v_{jk} e^{i \omega x_j} \biggr|$, $f_2$ is lower than $f_1$ at w=0 and the difference decreases as w goes to high frequency. Here we use BLP for linear coefficients, $ argmin_c  cov(  Z_0 - C^\top Z,  Z_0 - C^\top Z )   = \hat{C}= \Gamma^{-1} \gamma.$
+2. Exercise 5-2: Let $f_1(w)= o(w^2)$ and $f_2(w)= o(w^4)$. If we look at $\biggl| \sum_j v_{jk} e^{i \omega x_j} \biggr|$, $f_2$ is lower than $f_1$ at w=0 and the difference decreases as w goes to high frequency. Here we use BLP for linear coefficients, $argmin_c  cov(  Z_0 - C^\top Z,  Z_0 - C^\top Z )   = \hat{C}= \Gamma^{-1} \gamma.$
 
 3. Exercise 5-3: Observe that most of the variance of BLP is at high frequencies, another reason why we should focus on local behaviors.
    See "Predicting random fields", Stein (1999).
