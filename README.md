@@ -35,7 +35,9 @@ Click the link to review expectation and variance of theta(variance).
 
 ## Exercise 6. Correlation and relative standard errors of empirical semi-variogram. 
 
-
+  -[Explanation](Exercises/Experiment6_acf_semivariogram.pdf)
+  -[Python code](Exercises/Experiment6_acf_semivarogram.ipynb)
+  
   
   
 
