@@ -3,7 +3,7 @@
 The goal of this project is to approximate likelihood by using subset of data which follows gaussian process.
 
 ## How to read HDF file and NC file in Python.
--[See this](https://github.com/cl20813/Gaussian-Process-approximation/blob/567fc1abc0f2e12e7582635b54813c3ec11268d6/Exercises/Fit%20matern_true%20exp.pdf)
+-[See this](total_column_ozone/Read_save_ncfile.ipynb)
 
 ## Exercise 1: Simulate data using exponential kernel and try to fit variance only with matern kernel and do the opposite.
   1. If we try to fit matern when exponential kernel is true, fitted variance will go to infinity to compensate matern's faster decaying speed.
