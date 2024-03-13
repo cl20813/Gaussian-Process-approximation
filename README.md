@@ -5,7 +5,7 @@ The goal of this project is to approximate likelihood by using subset of data wh
 ## How to read HDF file and NC file in Python.
 -[See this](total_column_ozone/Read_save_ncfile.ipynb)
 
-## Exercise 1: Simulate data using exponential kernel and try to fit variance only with matern kernel and do the opposite.
+## Exercise 1: Simulate data using exponential kernel then attempt to fit only the variance using the Matérn kernel, and vice versa. 
   1. If we try to fit matern when exponential kernel is true, fitted variance will go to infinity to compensate matern's faster decaying speed.
   2. On the other hand, if we try to fit exponential kernel when true model is mater, fitted variance will go to 0 to compensate exp's slower decaying speed.
 
@@ -17,7 +17,7 @@ Click the link to review expectation and variance of theta(variance).
 
 
   
-## Exercise 2: Using eigen-values and eigen-vectors to assess the quality of the model.
+## Exercise 2: Using the eigen-values and eigen-vectors to assess the quality of the model.
 
   -[Experiment result](Exercises/Diagnostics_of_covariance_matrix_using_eigenvalue.ipynb)
   
