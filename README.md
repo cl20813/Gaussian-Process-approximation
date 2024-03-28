@@ -42,7 +42,7 @@ Click the link to review expectation and variance of theta(variance).
 3. Exercise 5-3: Observe that most of the variance of BLP is at high frequencies, another reason why we should focus on local behaviors.
    See "Predicting random fields", Stein (1999).
 
-   -[Python code](Exercises/Experiment5.ipynb)
+   -[Python code2](Exercises/Experiment5.ipynb)
 
 ## Exercise 6. Correlation and relative standard errors of empirical semi-variogram. 
 
